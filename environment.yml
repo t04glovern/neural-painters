@@ -1,0 +1,15 @@
+
+name: neural-painters
+dependencies:
+  - python=2.7
+  - pip
+  - ipython-notebook
+  - pip:
+    - tensorflow-gpu
+    - ipdb
+    - tqdm
+    - cloudpickle
+    - matplotlib
+    - lucid
+    - PyDrive
+    - moviepy

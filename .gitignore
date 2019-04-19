@@ -1,0 +1,5 @@
+actions.npy
+tf_gan3/
+tf_vae/
+*.mp4
+.ipynb_checkpoints
